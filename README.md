@@ -24,4 +24,3 @@ This plugin is only for educational purposes and should not be used on live prod
 - [WebPeachy Website](https://webpeachy.io/)
 - [WebPeachy YouTube Channel](https://www.youtube.com/@WebPeachy)
 
-- 

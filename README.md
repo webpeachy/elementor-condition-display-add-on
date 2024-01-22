@@ -20,5 +20,8 @@ Elementor Condition Display Add-on is a plugin designed for extending elementor 
 This plugin is only for educational purposes and should not be used on live production sites.
 
 ## Links
+- [Elementor Add ons development course](https://webpeachy.io/elemontor-add-ons-development-course/)
 - [WebPeachy Website](https://webpeachy.io/)
 - [WebPeachy YouTube Channel](https://www.youtube.com/@WebPeachy)
+
+- 
